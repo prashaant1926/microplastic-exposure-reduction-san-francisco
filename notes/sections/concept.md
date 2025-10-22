@@ -1,5 +1,7 @@
-This research aims to quantify and characterize the major sources of microplastic pollution in San Francisco's urban environment, focusing on both environmental and indoor exposure pathways. The study will employ systematic sampling across different city microenvironments including residential areas, commercial districts, and waterfront locations.
+# Concept
 
-The project will utilize advanced spectroscopic analysis to identify specific types and sources of microplastics, with particular attention to tire wear particles, synthetic textile fibers, and degraded single-use plastics. This analysis will be coupled with environmental fate modeling to understand transport mechanisms and exposure routes.
+## Research Idea
 
-The findings will be used to develop and validate practical intervention strategies for reducing personal microplastic exposure, considering both behavioral modifications and technological solutions accessible to the general public.
+A comprehensive analysis of primary microplastic sources in San Francisco's urban environment and development of evidence-based strategies for reducing personal exposure.
+
+[This section will be enhanced by Oslo]
