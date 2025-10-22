@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "hypothesis": "Urban residents in San Francisco are exposed to significantly higher levels of microplastics through indoor dust and air than through food and water sources, with synthetic textiles and tire wear particles being the predominant contributors."
+  },
+  {
+    "id": "example-1",
+    "hypothesis": "This is an example hypothesis that demonstrates the expected format.",
+    "_isExample": true
+  }
+]
